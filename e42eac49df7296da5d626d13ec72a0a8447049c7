@@ -1,0 +1,27 @@
+manifests/g/GitWhy/GitWhy/0.2.0/GitWhy.GitWhy.installer.yaml
+  72aa24c039859edf 1-13
+manifests/g/GitWhy/GitWhy/0.2.0/GitWhy.GitWhy.locale.en-US.yaml
+  72aa24c039859edf 1-15
+manifests/g/GitWhy/GitWhy/0.2.0/GitWhy.GitWhy.yaml
+  72aa24c039859edf 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "e42eac49df7296da5d626d13ec72a0a8447049c7",
+  "prompts": {
+    "72aa24c039859edf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bc306f0-7f6a-4cbf-9729-95ddd55cdc15",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Quan Nguyen <quannguyenminh27082007@gmail.com>",
+      "messages": [],
+      "total_additions": 33,
+      "total_deletions": 0,
+      "accepted_lines": 33,
+      "overriden_lines": 0
+    }
+  }
+}
